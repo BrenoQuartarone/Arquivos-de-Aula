@@ -1,15 +1,21 @@
 ALGORITMO - Um algoritmo é uma sequência de passos ou instruções que descrevem como resolver um problema ou realizar uma tarefa. Em programação, os algoritmos são fundamentais para 
 desenvolver software, pois definem a lógica que o computador deve seguir para executar uma operação específica.
+https://nuted.ouropreto.ifmg.edu.br/capacitar/pluginfile.php/134/mod_glossary/attachment/1/algoritmos_programacao.pdf
 
-INTELIGÊNCIA ARTIFICIAL -  Inteligência Artificial é um campo da ciência da computação que cria sistemas e programas capazes de realizar tarefas que normalmente exigiriam inteligência humana.
-Isso inclui aprendizado de máquina, reconhecimento de padrões, processamento de linguagem natural e tomada de decisões. IA busca imitar a forma como os humanos pensam e aprendem.
+INTELIGÊNCIA ARTIFICIAL -  IA é um campo da ciência da computação que cria sistemas e programas capazes de realizar tarefas que normalmente exigiriam inteligência humana.
+Isso inclui aprendizado de máquina, reconhecimento de padrões, processamento de linguagem natural, tomada de decisões, além de outras funções avançadas.
+https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR#:~:text=T%C3%B3picos-,O%20que%20%C3%A9%20intelig%C3%AAncia%20artificial%20(IA)%3F,fazer%20recomenda%C3%A7%C3%B5es%20e%20muito%20mais.
+https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm
 
-BANCO DE DADOS - Um banco de dados é um sistema organizado para armazenar, gerenciar e recuperar informações de forma eficiente. Ele permite que grandes volumes de dados sejam armazenados 
-e acessados rapidamente, e pode ser consultado, atualizado e manipulado conforme necessário. Exemplos incluem bancos de dados relacionais como MySQL e não relacionais como MongoDB.
+BANCO DE DADOS - Um banco de dados é um sistema organizado para armazenar, gerenciar e recuperar informações. Ele permite que grandes volumes de dados sejam armazenados 
+e acessados rapidamente, e pode ser consultado, atualizado e manipulado conforme necessário.
+https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).
 
-JURIMETRIA - Jurimetria é a aplicação de métodos quantitativos e estatísticos ao estudo do direito e das práticas jurídicas. Ela busca analisar e prever padrões e tendências em decisões 
-judiciais, legislações e outras áreas do direito, utilizando dados para informar decisões e melhorar a compreensão do sistema jurídico.
+JURIMETRIA - A jurimetria é a estatística aplicada ao Direito e das práticas jurídicas. Ela busca analisar e prever padrões e tendências 
+em decisões judiciais, legislações e outras áreas do direito, utilizando dados para informar decisões e melhorar a compreensão do sistema jurídico.
+https://blog.juit.io/jurimetria-software/#:~:text=Um%20software%20de%20jurimetria%20%C3%A9,estat%C3%ADstica%20descritiva%20e%20machine%20learning.
 
-NUVEM - A "nuvem" refere-se à computação em nuvem, um modelo que permite o acesso a serviços de computação (como armazenamento, processamento e aplicações) através da internet. Em vez de usar 
-hardware local, os usuários podem armazenar e gerenciar dados e aplicativos em servidores remotos, acessíveis via internet. Isso proporciona flexibilidade, escalabilidade e redução de custos 
-para empresas e indivíduos.
+NUVEM - A nuvem é um modelo que permite o acesso a serviços de computação (como armazenamento, processamento e aplicações) através da internet. Em vez de usar 
+hardware local, os usuários podem armazenar e gerenciar dados e aplicativos em servidores remotos, acessíveis via internet. Isso proporciona flexibilidade para empresas e indivíduos.
+https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-BR
+https://www.unisys.com/pt/glossary/what-is-cloud-computing/
