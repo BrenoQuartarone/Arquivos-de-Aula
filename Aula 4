@@ -1,0 +1,25 @@
+1-
+a)
+Uma de suas diferenças é seu propósito inicial: O Python tem uma sintaxe simples e é interpretada, sendo ideal para scripts e protótipos.  O python é uma linguagem conhecida por ser ótima para iniciantes
+
+# Python
+print("Hello, World!")
+
+
+
+O JavaScript é principalmente usado para desenvolvimento web e é executado em navegadores.
+
+// JavaScript
+console.log("Hello, World!");
+
+
+
+C++ tem uma sintaxe mais complexa e é usado primordialmente para desenvolvimento de sistemas e aplicações de alto desempenho
+
+// C++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
