@@ -1,20 +1,21 @@
 1-
 a)
-Uma de suas diferenças é seu propósito inicial: O Python tem uma sintaxe simples e é interpretada, sendo ideal para scripts e protótipos.  O python é uma linguagem conhecida por ser ótima para iniciantes
+Uma de suas diferenças é seu propósito inicial: O Python tem uma sintaxe (sistema de estrutura da linguagem) simples e é interpretada, sendo ideal para scripts, que é geralmente um código que realiza uma tarefa específica e automatizada, e protótipos, que são é uma versão inicial 
+de um software criado para testar ideias e funcionalidades. O python é uma linguagem conhecida por ser ótima para iniciantes.
 
 # Python
 print("Hello, World!")
 
 
 
-O JavaScript é principalmente usado para desenvolvimento web e é executado em navegadores.
+O JavaScript tem uma sintaxe bem semelhante a C++, mas com suas especificidades. É principalmente usado para desenvolvimento web e é executado em navegadores.
 
 // JavaScript
 console.log("Hello, World!");
 
 
 
-C++ tem uma sintaxe mais complexa e é usado primordialmente para desenvolvimento de sistemas e aplicações de alto desempenho
+C++ tem uma sintaxe mais complexa e é usado primordialmente para desenvolvimento de sistemas e aplicações de alto desempenho.
 
 // C++
 #include <iostream>
