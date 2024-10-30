@@ -1,1 +1,13 @@
+Ordenar uma lista de números utilizando o Bubble Sort (Python)
+def bubble_sort_numeros(lista):
+    
+    n = len(lista)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if lista[j] > lista[j+1]:
+                lista[j], lista[j+1] = lista[j+1], lista[j]
 
+    print("Números ordenados:", lista)
+
+ex) numeros = [5, 2, 9, 1, 4, 6]
+bubble_sort_numeros(numeros)
