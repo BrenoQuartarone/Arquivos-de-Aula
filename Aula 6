@@ -1,13 +1,16 @@
-Ordenar uma lista de números utilizando o Bubble Sort (Python)
-def bubble_sort_numeros(lista):
+Ordenar uma lista de vogais utilizando o Bubble Sort (Python)
+def bubble_sort_vogais(frase):
     
-    n = len(lista)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if lista[j] > lista[j+1]:
-                lista[j], lista[j+1] = lista[j+1], lista[j]
+     vogais = [letra for letra in frase.lower() if letra in 'aeiou']
 
-    print("Números ordenados:", lista)
+  n = len(vogais)
+  for i in range(n):
+    for j in range(0, n-i-1):
+      if vogais[j] > vogais[j+1]:
+        vogais[j], vogais[j+1] = vogais[j+1], vogais[j]
 
-ex) numeros = [5, 2, 9, 1, 4, 6]
-bubble_sort_numeros(numeros)
+
+    print("Vogais ordenados:", vogais)
+
+ex) frase = "Olá, mundo! Como vai você?"
+bubble_sort_vogais(frase)
