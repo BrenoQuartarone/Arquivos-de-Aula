@@ -1,1 +1,24 @@
+Ordenando uma lista usando o algoritmo Bubble Sort (Python)
+1)
+def bubble_sort(arr):
 
+    n = len(arr)
+    
+    for i in range(n):
+        trocou = False
+        
+        for j in range(0, n-i-1):
+         
+            if arr[j] > arr[j + 1]:
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+                trocou = True
+
+        if not trocou:
+            break
+
+    return arr
+
+Ex)
+numeros = [78, 12, 45, 23, 89, 34, 10]
+numeros_ordenados = bubble_sort(numeros)
+print(numeros_ordenados)
