@@ -1,1 +1,31 @@
+Python (estrutura de repetição)
 
+1) Iterando sobre uma lista de números
+numeros = [1, 2, 3, 4, 5]
+for numero in numeros:
+    print(numero)
+
+2) Iterando sobre uma tupla
+cores = ("amarelo", "rosa", "verde")
+for cor in cores:
+    print(cor)
+
+Python (estrutura de tomada de decisão)
+
+1) Verificando se uma pessoa é elegível para votar
+idade = int(input("Digite sua idade: "))
+
+if idade >= 18:
+    print("Você está apto a votar.")
+if idade < 18 and idade >= 16:
+    print("Você pode votar, mas não é obrigatório.")
+else:
+    print("Você não pode votar.")
+
+2) Verificando se o número é par ou impar
+numero = int(input("Digite um número inteiro: "))
+
+if numero % 2 == 0:
+    print("O número é par.")
+else:
+    print("O número é ímpar.")
